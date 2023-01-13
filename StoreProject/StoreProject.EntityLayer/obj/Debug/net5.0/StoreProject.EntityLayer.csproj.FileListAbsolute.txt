@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\StoreProject.EntityLayer.deps.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\StoreProject.EntityLayer.runtimeconfig.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\StoreProject.EntityLayer.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\StoreProject.EntityLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\ref\StoreProject.EntityLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\bin\Debug\net5.0\StoreProject.EntityLayer.pdb
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.AssemblyInfo.cs
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\ref\StoreProject.EntityLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.pdb
+C:\Users\yunus\source\repos\StoreProject\StoreProject.EntityLayer\obj\Debug\net5.0\StoreProject.EntityLayer.genruntimeconfig.cache

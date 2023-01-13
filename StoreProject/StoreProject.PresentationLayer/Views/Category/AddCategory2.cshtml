@@ -1,0 +1,23 @@
+﻿@model CreateCategoryDto
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+
+<div class="container">
+    <br />
+    <form method="post">
+        <label>Kategori Adı</label>
+        <input type="text" class="form-control" asp-for="CategoryName" />
+        <span asp-validation-for="CategoryName" class="text-info"></span>
+        <br />
+        <label>Kategori Açıklaması</label>
+        <input type="text" class="form-control" asp-for="CategoryDescription" />
+        <span asp-validation-for="CategoryDescription" class="text-info"></span>
+        <br />
+        <button class="btn btn-primary">Kategoriyi Ekle</button>
+    </form>
+</div>

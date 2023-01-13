@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\StoreProject.DTOLayer.deps.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\StoreProject.DTOLayer.runtimeconfig.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\StoreProject.DTOLayer.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\StoreProject.DTOLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\ref\StoreProject.DTOLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\bin\Debug\net5.0\StoreProject.DTOLayer.pdb
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.AssemblyInfo.cs
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\ref\StoreProject.DTOLayer.dll
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.pdb
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.genruntimeconfig.cache
+C:\Users\yunus\source\repos\StoreProject\StoreProject.DTOLayer\obj\Debug\net5.0\StoreProject.DTOLayer.csproj.AssemblyReference.cache
